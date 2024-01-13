@@ -17,15 +17,15 @@ Z세대를 겨냥하여 카드와 ‘타로카드’의 유사성을 활용한 �
 
 ## **✅ 멤버소개**
 
-![마수리 팀](https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/c4e9e9c0-b08d-4064-aa6d-4a847067c546)
+![마수리 팀](https://github.com/tjsduq0423/project_masoori/assets/84220249/e9065e81-aa44-49a3-966d-4dce15ff7343)
 
 ## **✅ 프로젝트 목표**
 
-![마수리 1](https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/7bc4cc3d-a33a-4e54-8dfb-033a4a1caa2d)
+![마수리 1](https://github.com/tjsduq0423/project_masoori/assets/84220249/89030731-51dc-41ee-b0f9-27d1d6d35667)
 
-![마수리 2](https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/a7f25173-f57e-4b48-9f1b-5b3c208c38c2)
+![마수리 2](https://github.com/tjsduq0423/project_masoori/assets/84220249/6296653a-0252-41d8-a509-51a4a15b7d30)
 
-![마수리 3](https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/69d2fb40-efaa-41dc-8763-e6777da15888)
+![마수리 3](https://github.com/tjsduq0423/project_masoori/assets/84220249/dbea6c5e-4e74-43a1-9171-3321cbabd117)
 
 ## **✅ 기술스택**
 
@@ -92,47 +92,47 @@ pytorch&logoColor=white"/>
 
 ### 로그인
 
-![login](https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/d40a1fbe-deb4-4a71-975c-b57e17f42f93)
+![login](https://github.com/tjsduq0423/project_masoori/assets/84220249/c36cb199-04fb-45ed-98ae-81ecc6cd5644)
 
 ### 메인화면
 
-![main](https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/d2aed538-c8e5-4368-a434-3af33d06e6fa)
+![main](https://github.com/tjsduq0423/project_masoori/assets/84220249/b31ee2eb-ea65-4ff1-abba-5f39d3a6af79)
 
 ### 운세
 
-![lucky](https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/3210fffd-0eb7-42d3-839b-ed605d016907)
+![lucky](https://github.com/tjsduq0423/project_masoori/assets/84220249/f25f5366-8038-498d-9aa2-3bf4a680462d)
 
 ### 소비내역 연동
 
-![소비내역 생성](https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/0653d7c3-6544-4b67-8ef8-1af25c5090c6)
+![소비내역 생성](https://github.com/tjsduq0423/project_masoori/assets/84220249/3a4c6315-351c-4884-8c18-cce052bec068)
 
 ### 카드 추천
 
-![카드 추천](https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/6cdf9e01-e28d-484b-abc8-b82655af9e62)
+![카드 추천](https://github.com/tjsduq0423/project_masoori/assets/84220249/6b9514a2-8a07-4aea-8942-678b9e028adf)
 
 ### 카드 도감
 
-![dictionary](https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/60932da1-9f64-4b8d-858d-12c35075ba7d)
+![dictionary](https://github.com/tjsduq0423/project_masoori/assets/84220249/7a9d46b5-dcec-4700-adb7-08157703b21c)
 
 ### 소비 타로 카드
 
-![소비내역](https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/e273b144-b729-4c30-9db1-853cfa33034a)
+![소비내역](https://github.com/tjsduq0423/project_masoori/assets/84220249/006211a1-a3b4-41d3-be92-bf72e1c3b4be)
 
 ### 챌린지 카드
 
-![챌린지](https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/65619db7-1eed-4426-8c82-c482b109a936)
+![챌린지](https://github.com/tjsduq0423/project_masoori/assets/84220249/717e964f-9e8b-4a4d-939c-d169ed19022e)
 
 ### FAQ
 
-![FAQ](https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/4019d5bf-9371-4a3f-803b-42e7443de6f5)
+![FAQ](https://github.com/tjsduq0423/project_masoori/assets/84220249/029dcec0-76c7-447b-9664-2455f9087be7)
 
 ### 프로필
 
-![myProfile](https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/73780ddb-e0d4-4e28-98bd-d97fa5414024)
+![myProfile](https://github.com/tjsduq0423/project_masoori/assets/84220249/c560f1e7-b043-4073-b165-163e07bc5677)
 
 ## **✅ 시스템 아키텍쳐**
 
-![Untitled](https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/94e8e9a1-1423-4dcd-b029-55287794d614)
+![Untitled](https://github.com/tjsduq0423/project_masoori/assets/84220249/9cdf2391-0d55-4f88-92c4-0c1d5743f37b)
 
 ## **✅ 활용 기술, 기술 설명**
 
@@ -153,7 +153,7 @@ pytorch&logoColor=white"/>
 
 ### ERD
 
-![Untitled (1)](https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/28d011d1-d4bb-40b9-9de9-ff437bfe3c5e)
+![Untitled (1)](https://github.com/tjsduq0423/project_masoori/assets/84220249/4bec1866-b382-4c9d-a9a3-1ef5696ca6d1)
 
 ## API 문서
 
@@ -162,9 +162,9 @@ pytorch&logoColor=white"/>
 
 ## **✅ 추억사진**
 
-<img src="https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/eacfc956-96c2-44ca-a30d-7556452427a9" width="100%"/>
-<img src="https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/2d96f36d-1e17-47ca-8077-dbeae1cf2d44" width="100%"/>
-<img src="https://github.com/tjsduq0423/project_masoori_ssafy/assets/84220249/c7139b0f-fed0-4509-9f2f-84891402a246" width="100%"/>
+<img src="https://github.com/tjsduq0423/project_masoori/assets/84220249/4823ac43-a83b-4927-a487-c6b3f572b5d0" width="100%"/>
+<img src="https://github.com/tjsduq0423/project_masoori/assets/84220249/23cf713a-ea2c-47f9-a799-9612bb7aafe3" width="100%"/>
+<img src="https://github.com/tjsduq0423/project_masoori/assets/84220249/547fbc0a-cfbc-4947-9abf-36eed007c691" width="100%"/>
 
 ## **✅ 결과공유, 느낀점(모두작성)**
 
